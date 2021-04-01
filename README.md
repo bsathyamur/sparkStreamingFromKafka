@@ -1,4 +1,4 @@
-### spark Streaming to read from Kafka topics and write to Kakfa topics
+# spark Streaming to read from Kafka topics and write to Kakfa topics
 
 ## To run the spark job use the below command:
 
